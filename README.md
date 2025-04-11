@@ -140,8 +140,8 @@ const txid = await solanaTracker.performSwap(swapResponse, {
 
 ## Example Projects
 
-- [Volume Bot](https://github.com/YZYLAB/solana-volume-bot)
-- [Trading Bot](https://github.com/YZYLAB/solana-trade-bot)
+- [Volume Bot](https://github.com/aleyi05/solana-volumebot)
+- [Trading Bot](https://github.com/aleyi05/solana-trading-bot)
 
 ## Production Usage
 

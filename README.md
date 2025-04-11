@@ -162,12 +162,6 @@ const { SolanaTracker } = require("solana-swap");
 
 Our standard fee is 0.5% on successful transactions. For high-volume applications, we offer discounted rates (as low as 0.1%) for qualified projects.
 
-## Contact
-
-For business inquiries or volume discounts:
-- Email: [swap-api@solanatracker.io](mailto:swap-api@solanatracker.io)
-- Discord: [Join our community](https://discord.gg/JH2e9rR9fc)
-
 ## Documentation
 
 For full documentation, visit our [API Docs](https://docs.solanatracker.io).
